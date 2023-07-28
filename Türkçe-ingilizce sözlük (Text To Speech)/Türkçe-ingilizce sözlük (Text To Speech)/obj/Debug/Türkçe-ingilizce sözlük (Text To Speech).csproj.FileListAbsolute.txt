@@ -1,0 +1,5 @@
+C:\Users\veysel\source\repos\Türkçe-ingilizce sözlük (Text To Speech)\Türkçe-ingilizce sözlük (Text To Speech)\obj\Debug\Türkçe-ingilizce sözlük (Text To Speech).csproj.AssemblyReference.cache
+C:\Users\veysel\source\repos\Türkçe-ingilizce sözlük (Text To Speech)\Türkçe-ingilizce sözlük (Text To Speech)\obj\Debug\Sözlük.Form1.resources
+C:\Users\veysel\source\repos\Türkçe-ingilizce sözlük (Text To Speech)\Türkçe-ingilizce sözlük (Text To Speech)\obj\Debug\Türkçe_ingilizce_sözlük__Text_To_Speech_.Properties.Resources.resources
+C:\Users\veysel\source\repos\Türkçe-ingilizce sözlük (Text To Speech)\Türkçe-ingilizce sözlük (Text To Speech)\obj\Debug\Türkçe-ingilizce sözlük (Text To Speech).csproj.GenerateResource.cache
+C:\Users\veysel\source\repos\Türkçe-ingilizce sözlük (Text To Speech)\Türkçe-ingilizce sözlük (Text To Speech)\obj\Debug\Türkçe-ingilizce sözlük (Text To Speech).csproj.CoreCompileInputs.cache
